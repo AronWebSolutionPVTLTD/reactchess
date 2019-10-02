@@ -9,7 +9,6 @@ import Menu from '@App/components/Menu/Menu';
 
 interface AppProps {
 }
-
 interface AppState {
   isReset: boolean;
   fen: string;
